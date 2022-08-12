@@ -13,7 +13,15 @@
         <img  align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
  <img  align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
+<br/>
+<br/>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelchiareli)](https://github.com/rafaelchiareli/github-readme-stats)
+
+<br/>
 
 
 </div>
+
+## Apenas um programador
