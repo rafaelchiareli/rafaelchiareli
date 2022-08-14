@@ -2,6 +2,7 @@
 
 ### Meu nome é Rafael Chiareli, sou um desenvolvedor .Net fullstack VB.Net/C#. Trabalho há 12 anos com desevolvimento de software e tenho procurado aprender cada vez mais.
 
+- [Clique para ver meu curriculo completo.](https://rafaelchiareli.github.io/)<br>
 
 <br>
 
@@ -29,13 +30,14 @@
 </div>
 <br/>
 
-## 🛠️ Como anda minha atividade no GitHub
+## 🛠️ &nbsp;Como anda minha atividade no GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelchiareli&show_icons=true&theme=radical)
 
+## 💻 &nbsp;Linguagens que eu programo
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelchiareli)](https://github.com/rafaelchiareli/github-readme-stats)
 
-<br/>
 
 ##  🚧 &nbsp;Meus Projetos:
 - [Utilizando a API do Cartola FC em Flutter](https://github.com/rafaelchiareli/cartola_ios)<br>
@@ -46,8 +48,6 @@ Projeto desenvolvido em fluter para....
 Projeto desenvolvido em ASPNet MVC 5
 
 ## 🏠 &nbsp; Outras informações sobre mim:
-
-
  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelchiareli?tab=repositories)    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-chiareli-6184566b/)    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaelchiareli/) 
 
 </div>
