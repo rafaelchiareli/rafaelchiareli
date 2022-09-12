@@ -2,7 +2,7 @@
 
 ### Meu nome é Rafael Chiareli, sou um desenvolvedor .Net fullstack VB.Net/C#. Trabalho há 12 anos com desevolvimento de software e tenho procurado aprender cada vez mais.
 
-- [Clique para ver meu curriculo completo.](https://rafaelchiareli.github.io/)<br>
+
 
 <br>
 
